@@ -11,7 +11,7 @@ A collection of simple PHP scripts for various tasks like web scraping, data pro
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/php-scripts-collection.git
+   git clone https://github.com/angeliszotis/phpScripts.git
    cd php-scripts-collection
 
 2. **Run a Script:**
