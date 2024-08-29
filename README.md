@@ -15,7 +15,7 @@ A collection of simple PHP scripts for various tasks like web scraping, data pro
    cd php-scripts-collection
 
 2. **Run a Script:**
-```bash
   Copy code
-  php script_name.php 
   Replace script_name.php with the actual script file you want to run.
+```bash
+  php script_name.php 
